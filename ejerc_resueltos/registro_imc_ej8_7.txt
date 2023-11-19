@@ -1,0 +1,3 @@
+yamil,armu,21,43348717,62.0,1.81,18.92,peso normal,
+juan,pochinki,25,41254874,70.0,1.77,22.34,peso normal,
+ana,luchetti,17,48623214,50.0,1.7,17.3,bajo peso,

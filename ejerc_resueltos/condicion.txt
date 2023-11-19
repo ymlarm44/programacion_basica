@@ -1,0 +1,14 @@
+Lopez Javier promedio: 77
+condicion: regular
+Garcia Ana promedio: 79.3
+condicion: regular
+Farias Daniel promedio: 52
+condicion: libre
+Zapata Mateo promedio: 80.3
+condicion: promocional
+Tarabini Luciana promedio: 58.3
+condicion: libre
+Gonzales Maria promedio: 66
+condicion: regular
+Vazques Jorge promedio: 51.3
+condicion: libre
